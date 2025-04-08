@@ -6,3 +6,6 @@
 .vscode/**
 !.vscode/extensions.json
 **.iml
+
+# Project exclude paths
+**/target
